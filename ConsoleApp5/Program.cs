@@ -13,6 +13,10 @@ namespace ConsoleApp5
 			Console.WriteLine("Hello World!");
 
 			Console.WriteLine("Hello World!");
+			int x = 3;
+			int y = 6;
+			int z = x * y;
+			Console.WriteLine(z);
 
 
 		}
